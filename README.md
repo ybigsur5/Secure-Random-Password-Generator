@@ -4,14 +4,18 @@ The "Secure Random Password Generator" is a web tool that creates strong and cus
 **👾 Instructions: 👾**
 
 1. **Length Selection:**
+   
     - Specify the desired password length.
     - Longer passwords generally provide better security.
-2. **Complexity Options:**
+3. **Complexity Options:**
+   
     - Choose complexity options (Uppercase, Lowercase, Numbers, Symbols).
     - Select at least one complexity option for a stronger password.
-3. **Generate Password:**
+4. **Generate Password:**
+   
     - Click the "Generate Password" button.
     - A secure random password will be displayed.
-4. **Copy to Clipboard:**
+5. **Copy to Clipboard:**
+   
     Optionally, click "Copy to Clipboard" to copy the generated password.
    ❌ Manually copy passwords if the "Copy to Clipboard" feature doesn't work.
