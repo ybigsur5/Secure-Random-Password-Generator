@@ -20,6 +20,3 @@ The "Secure Random Password Generator" is a web tool that creates strong and cus
     Optionally, click "Copy to Clipboard" to copy the generated password.
    ❌ Manually copy passwords if the "Copy to Clipboard" feature doesn't work.
 
-   **Example of the result**
- ![Uploading Screen Shot 2023-12-10 at 22.40.51.png…]()
-
